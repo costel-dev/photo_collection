@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Title = () => {
   return (
@@ -7,7 +7,7 @@ const Title = () => {
       <h2>Your Pictures</h2>
       <p>Photo Collection Project with React and Firebase</p>
     </div>
-  )
-}
+  );
+};
 
 export default Title;
