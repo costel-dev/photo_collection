@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is a photo gallery that uses Firebase to store our uploaded pictures and React to display them on the client side.
 
 ## Available Scripts
 
